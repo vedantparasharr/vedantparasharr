@@ -27,7 +27,7 @@ My development style is clean and experimental. I build to learn, test ideas, an
 <div align="center">
 
 <!-- animated/modern skill icons -->
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express,mongodb,git,github,vscode&theme=dark" alt="skills" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express,mongodb,git,github,vscode,vercel,render&theme=dark" alt="skills" />
 
 </div>
 
@@ -46,12 +46,9 @@ My development style is clean and experimental. I build to learn, test ideas, an
     </td>
     <td align="center">
       <!-- Streak widget -->
-      <img src="https://streak-stats.demolab.com?user=vedantparasharr&theme=tokyonight&hide_border=true" width="320" alt="streak" />
+      <img src="https://streak-stats.demolab.com?user=vedantparasharr&theme=tokyonight&hide_border=true" width="480" alt="streak" />
     </td>
-    <td align="center">
-      <!-- Top languages -->
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vedantparasharr&langs_count=6&theme=tokyonight&hide_border=true" width="320" alt="top langs" />
-    </td>
+
   </tr>
   <tr>
     <td colspan="3" align="center" style="padding-top:10px;">
@@ -153,6 +150,7 @@ I am learning the MERN stack in depth. My current focus areas are building APIs 
 <div align="center">
 <a href="https://github.com/vedantparasharr"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" /></a>
 <a href="https://linkedin.com/in/vedantparasharr"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.instagram.com/dhanushka_m/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 <a href="mailto:iemvedant@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </div>
 
