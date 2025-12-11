@@ -8,7 +8,7 @@
 
 </div>
 
-# Hi, I'm Vedant Parashar
+# Hi👋, I'm Vedant Parashar
 
 I am a frontend developer expanding into full stack development through the MERN stack. Curiosity brought me into coding, and since then I have focused on improving my skills through consistent learning and real project work. I care about understanding how complete systems function from the interface to the server, database, and deployment.
 
@@ -87,30 +87,12 @@ Below are selected projects that demonstrate the kind of work I build while lear
   <tr>
     <td valign="top" width="50%" style="padding:12px;">
       <div style="background:#0b1020;padding:14px;border-radius:10px;box-shadow:0 6px 18px rgba(0,0,0,0.45);">
-        <h3 style="margin:0 0 6px 0;">QuickWeather</h3>
-        <p style="margin:0 0 8px 0;">A simple weather app with current conditions and 5-day forecast. Built with React and a weather API.</p>
-        <p style="margin:0;"><a href="https://quickweatherapp.vercel.app" target="_blank">Live</a> • <a href="https://github.com/vedantparasharr/QuickWeather" target="_blank">Repo</a></p>
-      </div>
-    </td>
-    <td valign="top" width="50%" style="padding:12px;">
-      <div style="background:#0b1020;padding:14px;border-radius:10px;box-shadow:0 6px 18px rgba(0,0,0,0.45);">
         <h3 style="margin:0 0 6px 0;">EasyStore</h3>
         <p style="margin:0 0 8px 0;">A clean ecommerce UI with product browsing and cart features. Frontend connected to backend routes for product data.</p>
         <p style="margin:0;"><a href="https://easystoreapp.vercel.app" target="_blank">Live</a> • <a href="https://github.com/vedantparasharr/EasyStore" target="_blank">Repo</a></p>
       </div>
     </td>
-  </tr>
-
-  <!-- row 2 -->
-  <tr>
-    <td valign="top" style="padding:12px;">
-      <div style="background:#0b1020;padding:14px;border-radius:10px;box-shadow:0 6px 18px rgba(0,0,0,0.45);">
-        <h3 style="margin:0 0 6px 0;">QuickNotes</h3>
-        <p style="margin:0 0 8px 0;">A note taking app with create, edit and delete features. Focused on UX and simple persistence.</p>
-        <p style="margin:0;"><a href="https://quicknotesreact.vercel.app" target="_blank">Live</a> • <a href="https://github.com/vedantparasharr/QuickNotes" target="_blank">Repo</a></p>
-      </div>
-    </td>
-    <td valign="top" style="padding:12px;">
+    <td valign="top" width="50%" style="padding:12px;">
       <div style="background:#0b1020;padding:14px;border-radius:10px;box-shadow:0 6px 18px rgba(0,0,0,0.45);">
         <h3 style="margin:0 0 6px 0;">CineTrack</h3>
         <p style="margin:0 0 8px 0;">A movie discovery app with trending lists and details pages. Built with React and third-party movie APIs.</p>
@@ -119,74 +101,41 @@ Below are selected projects that demonstrate the kind of work I build while lear
     </td>
   </tr>
 
-  <!-- row 3 -->
+  <!-- row 2 -->
   <tr>
-    <td valign="top" style="padding:12px;">
-      <div style="background:#0b1020;padding:14px;border-radius:10px;box-shadow:0 6px 18px rgba(0,0,0,0.45);">
-        <h3 style="margin:0 0 6px 0;">ZapTask</h3>
-        <p style="margin:0 0 8px 0;">A productivity app for tasks and lists with a modern UI and simple interactions.</p>
-        <p style="margin:0;"><a href="https://zap-task-five.vercel.app" target="_blank">Live</a> • <a href="https://github.com/vedantparasharr/ZapTask" target="_blank">Repo</a></p>
-      </div>
-    </td>
-    <td valign="top" style="padding:12px;">
+    <td valign="top" width="50%" style="padding:12px;">
       <div style="background:#0b1020;padding:14px;border-radius:10px;box-shadow:0 6px 18px rgba(0,0,0,0.45);">
         <h3 style="margin:0 0 6px 0;">AriaChat</h3>
-        <p style="margin:0 0 8px 0;">A chat-style frontend interface with animation and smooth transitions.</p>
+        <p style="margin:0 0 8px 0;">A chat-style frontend interface with animation and smooth transitions. A practice UI for chat apps.</p>
         <p style="margin:0;"><a href="https://aria-chat-teal.vercel.app" target="_blank">Live</a> • <a href="https://github.com/vedantparasharr/AriaChat" target="_blank">Repo</a></p>
       </div>
     </td>
+    <td valign="top" width="50%" style="padding:12px;">
+      <div style="background:#0b1020;padding:14px;border-radius:10px;box-shadow:0 6px 18px rgba(0,0,0,0.45);">
+        <h3 style="margin:0 0 6px 0;">QuickWeather</h3>
+        <p style="margin:0 0 8px 0;">A simple weather app with current conditions and 5-day forecast. Built with React and a weather API.</p>
+        <p style="margin:0;"><a href="https://quickweatherapp.vercel.app" target="_blank">Live</a> • <a href="https://github.com/vedantparasharr/QuickWeather" target="_blank">Repo</a></p>
+      </div>
+    </td>
   </tr>
 
-  <!-- row 4 -->
+  <!-- row 3 -->
   <tr>
-    <td valign="top" style="padding:12px;">
+    <td valign="top" width="50%" style="padding:12px;">
       <div style="background:#0b1020;padding:14px;border-radius:10px;box-shadow:0 6px 18px rgba(0,0,0,0.45);">
-        <h3 style="margin:0 0 6px 0;">AmazonClone</h3>
-        <p style="margin:0 0 8px 0;">A simple storefront clone to practice layout, product lists and interactions.</p>
-        <p style="margin:0;"><a href="https://amazonclonejs.vercel.app" target="_blank">Live</a> • <a href="https://github.com/vedantparasharr/basic-amazon-clone-js" target="_blank">Repo</a></p>
+        <h3 style="margin:0 0 6px 0;">ZapTask</h3>
+        <p style="margin:0 0 8px 0;">A productivity app for tasks and lists with a modern UI and smooth animations. Built with React.</p>
+        <p style="margin:0;"><a href="https://zap-task-five.vercel.app" target="_blank">Live</a> • <a href="https://github.com/vedantparasharr/ZapTask" target="_blank">Repo</a></p>
       </div>
     </td>
-    <td valign="top" style="padding:12px;">
+    <td valign="top" width="50%" style="padding:12px;">
       <div style="background:#0b1020;padding:14px;border-radius:10px;box-shadow:0 6px 18px rgba(0,0,0,0.45);">
-        <h3 style="margin:0 0 6px 0;">CasioStyleCalculator</h3>
-        <p style="margin:0 0 8px 0;">A calculator UI inspired by classic Casio styling with interactive buttons.</p>
-        <p style="margin:0;"><a href="https://casiostylecalculator.vercel.app" target="_blank">Live</a> • <a href="https://github.com/vedantparasharr/js-calculator" target="_blank">Repo</a></p>
-      </div>
-    </td>
-  </tr>
-
-  <!-- row 5 -->
-  <tr>
-    <td valign="top" style="padding:12px;">
-      <div style="background:#0b1020;padding:14px;border-radius:10px;box-shadow:0 6px 18px rgba(0,0,0,0.45);">
-        <h3 style="margin:0 0 6px 0;">SimpleKitchen</h3>
-        <p style="margin:0 0 8px 0;">A small recipe and menu UI used to practice layout and responsiveness.</p>
-        <p style="margin:0;"><a href="https://simple-kitchen.vercel.app" target="_blank">Live</a> • <a href="https://github.com/vedantparasharr/Simple-Kitchen" target="_blank">Repo</a></p>
-      </div>
-    </td>
-    <td valign="top" style="padding:12px;">
-      <div style="background:#0b1020;padding:14px;border-radius:10px;box-shadow:0 6px 18px rgba(0,0,0,0.45);">
-        <h3 style="margin:0 0 6px 0;">RockPaperScissors</h3>
-        <p style="margin:0 0 8px 0;">A classic Rock Paper Scissors game built with JavaScript for practice and UI polish.</p>
-        <p style="margin:0;"><a href="https://rockpaperscissors-rps.vercel.app" target="_blank">Live</a> • <a href="https://github.com/vedantparasharr/rock-paper-scissors" target="_blank">Repo</a></p>
+        <h3 style="margin:0 0 6px 0;">QuickNotes</h3>
+        <p style="margin:0 0 8px 0;">A note taking app with create, edit and delete features. Focused on UX and persistent state.</p>
+        <p style="margin:0;"><a href="https://quicknotesreact.vercel.app" target="_blank">Live</a> • <a href="https://github.com/vedantparasharr/QuickNotes" target="_blank">Repo</a></p>
       </div>
     </td>
   </tr>
-
-  <!-- row 6 -->
-  <tr>
-    <td valign="top" style="padding:12px;">
-      <div style="background:#0b1020;padding:14px;border-radius:10px;box-shadow:0 6px 18px rgba(0,0,0,0.45);">
-        <h3 style="margin:0 0 6px 0;">LoversCoffeeCafe</h3>
-        <p style="margin:0 0 8px 0;">A cafe landing page and menu UI that focuses on branding and static layout.</p>
-        <p style="margin:0;"><a href="https://lovers-coffee-cafe.vercel.app" target="_blank">Live</a> • <a href="https://github.com/vedantparasharr/lovers-coffee-cafe" target="_blank">Repo</a></p>
-      </div>
-    </td>
-    <td valign="top" style="padding:12px;">
-      <!-- placeholder to balance grid -->
-    </td>
-  </tr>
-
 </table>
 
 </div>
@@ -210,5 +159,5 @@ I am learning the MERN stack in depth. My current focus areas are building APIs 
 <br/>
 
 <div align="center">
-Made with patience and curiosity by <strong>Vedant Parashar</strong>
+Made with patience, ❤️ and curiosity by <strong>Vedant Parashar</strong>
 </div>
