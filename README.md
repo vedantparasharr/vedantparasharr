@@ -74,7 +74,7 @@ Right now, I'm deep in the MERN stack journey. React is solid, and I'm actively 
 
 ![Streak Stats](https://streak-stats.demolab.com?user=vedantparasharr&theme=tokyonight)
 
-</div>
+</div>---
 
 
 ---
