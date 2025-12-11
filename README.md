@@ -48,17 +48,7 @@ Right now, I'm deep in the MERN stack journey. React is solid, and I'm actively 
 ## GitHub Analytics
 
 <div align="center">
-
-<!-- GitHub Stats -->
-<a href="https://github.com/vedantparasharr">
-  <img src="https://github-readme-stats.vercel.app/api?username=vedantparasharr" />
-</a>
-
-<!-- Top Languages -->
-<a href="https://github.com/vedantparasharr">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vedantparasharr&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</a>
-
+  
 <!-- Streak Stats -->
 <a href="https://github.com/vedantparasharr">
   <img src="https://streak-stats.demolab.com?user=vedantparasharr&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
