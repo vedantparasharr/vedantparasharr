@@ -8,9 +8,10 @@
 
 </div>
 
-# Hi, I'm Vedant Parashar 👋
+# Hi, I'm Vedant Parashar
 
 I am a frontend developer expanding into full stack development through the MERN stack. Curiosity brought me into coding, and since then I have focused on improving my skills through consistent learning and real project work. I care about understanding how complete systems function from the interface to the server, database, and deployment.
+
 ---
 
 ## About Me
@@ -23,100 +24,182 @@ My development style is clean and experimental. I build to learn, test ideas, an
 
 ## Tech Stack
 
-### Frontend
-
-![HTML5](https://img.shields.io/badge/HTML5-F97316?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-38BDF8?style=for-the-badge\&logo=css3\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-FEDE5D?style=for-the-badge\&logo=javascript\&logoColor=black)
-![React](https://img.shields.io/badge/React-7BD0FF?style=for-the-badge\&logo=react\&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
-
-### Backend and Database
-
-![Node.js](https://img.shields.io/badge/Nodejs-57A143?style=for-the-badge\&logo=node.js\&logoColor=white)
-![Express](https://img.shields.io/badge/Express-1F2937?style=for-the-badge\&logo=express\&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-00ED64?style=for-the-badge\&logo=mongodb\&logoColor=white)
-
-### Tools and Deployment
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge\&logo=github\&logoColor=white)
-![VSCode](https://img.shields.io/badge/VS%20Code-3C99D4?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-0D1117?style=for-the-badge\&logo=vercel\&logoColor=white)
-![Render](https://img.shields.io/badge/Render-0D1117?style=for-the-badge\&logo=render\&logoColor=white)
-
----
-
-## What I Build
-
-I build projects that help me understand the full flow of a MERN application. I start with a clear UI idea and then extend it into a functioning system with routes, data handling, and real backend logic. Working on complete projects allows me to see how features interact and teaches me how to write code that remains structured and maintainable as complexity grows.
----
-
-## Currently Learning
-
-I am currently learning the MERN stack in depth. My focus areas include building APIs with Express, working with MongoDB and Mongoose, handling real data flows, and integrating backend logic with React applications. I am also learning how to design applications with proper structure so that features can scale and remain easy to work with as they grow.
-
----
-
-## GitHub Stats (updated widgets)
-
 <div align="center">
-<!-- streak widget -->
-<img src="https://streak-stats.demolab.com?user=vedantparasharr&theme=tokyonight&hide_border=true" width="60%" />
 
-<br/>
-
-<img src="https://img.shields.io/github/followers/vedantparasharr?label=Follow&style=social" />
+<!-- animated/modern skill icons -->
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express,mongodb,git,github,vscode&theme=dark" alt="skills" />
 
 </div>
 
 ---
 
-## Activity Heatmap
+## Stats, Streak and Visitor Counter
 
+<!-- Aligned row: profile card | streak | top langs -->
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vedantparasharr&theme=github-dark&hide_border=true" />
+
+<table cellspacing="12">
+  <tr>
+    <td align="center">
+      <!-- Profile summary card -->
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vedantparasharr&theme=tokyonight" width="320" alt="profile card" />
+    </td>
+    <td align="center">
+      <!-- Streak widget -->
+      <img src="https://streak-stats.demolab.com?user=vedantparasharr&theme=tokyonight&hide_border=true" width="320" alt="streak" />
+    </td>
+    <td align="center">
+      <!-- Top languages -->
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vedantparasharr&layout=compact&theme=tokyonight&hide_border=true" width="320" alt="top langs" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="3" align="center" style="padding-top:10px;">
+      <!-- visitor counter and follower badge -->
+      <img src="https://komarev.com/ghpvc/?username=vedantparasharr&label=Profile+Views&color=7BD0FF&style=flat" alt="profile views" />
+      <img src="https://img.shields.io/github/followers/vedantparasharr?label=Follow&style=social" alt="followers" />
+    </td>
+  </tr>
+</table>
+
 </div>
 
 ---
+
+## Contribution Snake
 
 <picture>
-  <!-- dark-mode snake -->
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vedantparasharr/vedantparasharr/output/github-contribution-grid-snake-dark.svg">
-  <!-- light-mode snake -->
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vedantparasharr/vedantparasharr/output/github-contribution-grid-snake.svg">
-  <!-- fallback -->
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/vedantparasharr/vedantparasharr/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vedantparasharr/vedantparasharr/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vedantparasharr/vedantparasharr/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/vedantparasharr/vedantparasharr/output/github-contribution-grid-snake.svg" style="max-width:100%;" />
 </picture>
 
 ---
 
 ## Featured Projects
 
-Here are three projects that represent my recent work.
+Below are selected projects that demonstrate the kind of work I build while learning the MERN stack. Each card lists the live preview and the repository.
 
-### 🛒 EasyStore
+<div align="center">
 
-**A simple and clean ecommerce project**
-GitHub: [https://github.com/vedantparasharr/EasyStore](https://github.com/vedantparasharr/EasyStore)
+<table width="100%" style="max-width:960px;">
+  <!-- row 1 -->
+  <tr>
+    <td valign="top" width="50%" style="padding:12px;">
+      <div style="background:#0b1020;padding:14px;border-radius:10px;box-shadow:0 6px 18px rgba(0,0,0,0.45);">
+        <h3 style="margin:0 0 6px 0;">QuickWeather</h3>
+        <p style="margin:0 0 8px 0;">A simple weather app with current conditions and 5-day forecast. Built with React and a weather API.</p>
+        <p style="margin:0;"><a href="https://quickweatherapp.vercel.app" target="_blank">Live</a> • <a href="https://github.com/vedantparasharr/QuickWeather" target="_blank">Repo</a></p>
+      </div>
+    </td>
+    <td valign="top" width="50%" style="padding:12px;">
+      <div style="background:#0b1020;padding:14px;border-radius:10px;box-shadow:0 6px 18px rgba(0,0,0,0.45);">
+        <h3 style="margin:0 0 6px 0;">EasyStore</h3>
+        <p style="margin:0 0 8px 0;">A clean ecommerce UI with product browsing and cart features. Frontend connected to backend routes for product data.</p>
+        <p style="margin:0;"><a href="https://easystoreapp.vercel.app" target="_blank">Live</a> • <a href="https://github.com/vedantparasharr/EasyStore" target="_blank">Repo</a></p>
+      </div>
+    </td>
+  </tr>
+
+  <!-- row 2 -->
+  <tr>
+    <td valign="top" style="padding:12px;">
+      <div style="background:#0b1020;padding:14px;border-radius:10px;box-shadow:0 6px 18px rgba(0,0,0,0.45);">
+        <h3 style="margin:0 0 6px 0;">QuickNotes</h3>
+        <p style="margin:0 0 8px 0;">A note taking app with create, edit and delete features. Focused on UX and simple persistence.</p>
+        <p style="margin:0;"><a href="https://quicknotesreact.vercel.app" target="_blank">Live</a> • <a href="https://github.com/vedantparasharr/QuickNotes" target="_blank">Repo</a></p>
+      </div>
+    </td>
+    <td valign="top" style="padding:12px;">
+      <div style="background:#0b1020;padding:14px;border-radius:10px;box-shadow:0 6px 18px rgba(0,0,0,0.45);">
+        <h3 style="margin:0 0 6px 0;">CineTrack</h3>
+        <p style="margin:0 0 8px 0;">A movie discovery app with trending lists and details pages. Built with React and third-party movie APIs.</p>
+        <p style="margin:0;"><a href="https://cinetrackreact.vercel.app" target="_blank">Live</a> • <a href="https://github.com/vedantparasharr/CineTrack" target="_blank">Repo</a></p>
+      </div>
+    </td>
+  </tr>
+
+  <!-- row 3 -->
+  <tr>
+    <td valign="top" style="padding:12px;">
+      <div style="background:#0b1020;padding:14px;border-radius:10px;box-shadow:0 6px 18px rgba(0,0,0,0.45);">
+        <h3 style="margin:0 0 6px 0;">ZapTask</h3>
+        <p style="margin:0 0 8px 0;">A productivity app for tasks and lists with a modern UI and simple interactions.</p>
+        <p style="margin:0;"><a href="https://zap-task-five.vercel.app" target="_blank">Live</a> • <a href="https://github.com/vedantparasharr/ZapTask" target="_blank">Repo</a></p>
+      </div>
+    </td>
+    <td valign="top" style="padding:12px;">
+      <div style="background:#0b1020;padding:14px;border-radius:10px;box-shadow:0 6px 18px rgba(0,0,0,0.45);">
+        <h3 style="margin:0 0 6px 0;">AriaChat</h3>
+        <p style="margin:0 0 8px 0;">A chat-style frontend interface with animation and smooth transitions.</p>
+        <p style="margin:0;"><a href="https://aria-chat-teal.vercel.app" target="_blank">Live</a> • <a href="https://github.com/vedantparasharr/AriaChat" target="_blank">Repo</a></p>
+      </div>
+    </td>
+  </tr>
+
+  <!-- row 4 -->
+  <tr>
+    <td valign="top" style="padding:12px;">
+      <div style="background:#0b1020;padding:14px;border-radius:10px;box-shadow:0 6px 18px rgba(0,0,0,0.45);">
+        <h3 style="margin:0 0 6px 0;">AmazonClone</h3>
+        <p style="margin:0 0 8px 0;">A simple storefront clone to practice layout, product lists and interactions.</p>
+        <p style="margin:0;"><a href="https://amazonclonejs.vercel.app" target="_blank">Live</a> • <a href="https://github.com/vedantparasharr/basic-amazon-clone-js" target="_blank">Repo</a></p>
+      </div>
+    </td>
+    <td valign="top" style="padding:12px;">
+      <div style="background:#0b1020;padding:14px;border-radius:10px;box-shadow:0 6px 18px rgba(0,0,0,0.45);">
+        <h3 style="margin:0 0 6px 0;">CasioStyleCalculator</h3>
+        <p style="margin:0 0 8px 0;">A calculator UI inspired by classic Casio styling with interactive buttons.</p>
+        <p style="margin:0;"><a href="https://casiostylecalculator.vercel.app" target="_blank">Live</a> • <a href="https://github.com/vedantparasharr/js-calculator" target="_blank">Repo</a></p>
+      </div>
+    </td>
+  </tr>
+
+  <!-- row 5 -->
+  <tr>
+    <td valign="top" style="padding:12px;">
+      <div style="background:#0b1020;padding:14px;border-radius:10px;box-shadow:0 6px 18px rgba(0,0,0,0.45);">
+        <h3 style="margin:0 0 6px 0;">SimpleKitchen</h3>
+        <p style="margin:0 0 8px 0;">A small recipe and menu UI used to practice layout and responsiveness.</p>
+        <p style="margin:0;"><a href="https://simple-kitchen.vercel.app" target="_blank">Live</a> • <a href="https://github.com/vedantparasharr/Simple-Kitchen" target="_blank">Repo</a></p>
+      </div>
+    </td>
+    <td valign="top" style="padding:12px;">
+      <div style="background:#0b1020;padding:14px;border-radius:10px;box-shadow:0 6px 18px rgba(0,0,0,0.45);">
+        <h3 style="margin:0 0 6px 0;">RockPaperScissors</h3>
+        <p style="margin:0 0 8px 0;">A classic Rock Paper Scissors game built with JavaScript for practice and UI polish.</p>
+        <p style="margin:0;"><a href="https://rockpaperscissors-rps.vercel.app" target="_blank">Live</a> • <a href="https://github.com/vedantparasharr/rock-paper-scissors" target="_blank">Repo</a></p>
+      </div>
+    </td>
+  </tr>
+
+  <!-- row 6 -->
+  <tr>
+    <td valign="top" style="padding:12px;">
+      <div style="background:#0b1020;padding:14px;border-radius:10px;box-shadow:0 6px 18px rgba(0,0,0,0.45);">
+        <h3 style="margin:0 0 6px 0;">LoversCoffeeCafe</h3>
+        <p style="margin:0 0 8px 0;">A cafe landing page and menu UI that focuses on branding and static layout.</p>
+        <p style="margin:0;"><a href="https://lovers-coffee-cafe.vercel.app" target="_blank">Live</a> • <a href="https://github.com/vedantparasharr/lovers-coffee-cafe" target="_blank">Repo</a></p>
+      </div>
+    </td>
+    <td valign="top" style="padding:12px;">
+      <!-- placeholder to balance grid -->
+    </td>
+  </tr>
+
+</table>
+
+</div>
 
 ---
 
-### 💬 AriaChat
+## Currently Learning
 
-**A basic chat style frontend UI with smooth interactions**
-GitHub: [https://github.com/vedantparasharr/AriaChat](https://github.com/vedantparasharr/AriaChat)
-
----
-
-### 🎬 CineTrack
-
-**A movie discovery app with a clean interface**
-GitHub: [https://github.com/vedantparasharr/CineTrack](https://github.com/vedantparasharr/CineTrack)
+I am learning the MERN stack in depth. My current focus areas are building APIs with Express, modeling data with MongoDB and Mongoose, handling real data flows, and integrating backend logic with React frontends. I am also learning to structure applications for maintainability and growth so features can scale without adding excessive complexity.
 
 ---
 
-## Connect With Me
+## Contact
 
 <div align="center">
 <a href="https://github.com/vedantparasharr"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" /></a>
