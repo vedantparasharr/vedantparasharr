@@ -42,11 +42,11 @@ My development style is clean and experimental. I build to learn, test ideas, an
   <tr>
     <td align="center">
       <!-- Profile summary card -->
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vedantparasharr&theme=tokyonight" width="320" alt="profile card" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vedantparasharr&theme=tokyonight" width="420" alt="profile card" />
     </td>
     <td align="center">
       <!-- Streak widget -->
-      <img src="https://streak-stats.demolab.com?user=vedantparasharr&theme=tokyonight&hide_border=true" width="480" alt="streak" />
+      <img src="https://nirzak-streak-stats.vercel.app/?user=vedantparasharr&theme=tokyonight&hide_border=true" width="420" />
     </td>
 
   </tr>
