@@ -1,117 +1,173 @@
-# 🚀 Vedant Parashar | Full-Stack Developer
+# Hi there, I'm Vedant Parashar
+
+Frontend Developer learning the full MERN stack. Building interactive web applications while diving deep into Node.js and backend systems.
 
 <div align="center">
 
 [![GitHub followers](https://img.shields.io/github/followers/vedantparasharr?style=social)](https://github.com/vedantparasharr)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
-![Profile Views](https://komarev.com/ghpvc/?username=vedantparasharr&style=flat-square&color=blue)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:iemvedant@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/vedantparasharr)
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-I'm a **Computer Science Student** passionate about building scalable web applications with modern technologies. I specialize in **full-stack development** with a strong focus on **React, Node.js, and JavaScript**. Currently exploring **backend development** and **system design** principles.
+I'm Vedant, a computer science student from Bhopal, India building full-stack web applications. I'm passionate about turning ideas into interactive, responsive web experiences.
 
-- 🎓 **CS Student** | Based in Bhopal, India 🇮🇳
-- 🔥 **Learning**: FastAPI, MongoDB, Advanced JavaScript patterns
-- 💡 **Interests**: Web Development, Backend Systems, Clean Code
-- 📚 **Philosophy**: Continuous learning and building real-world projects
+My learning journey has taken me from mastering React fundamentals to currently diving into backend development with Node.js and Express.js. Each project I build teaches me something new about architecture, state management, and user experience.
+
+Right now, I'm deep in the MERN stack journey. React is solid, and I'm actively learning Express.js routing, middleware, and file handling with Node.js.
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
-### Languages & Frameworks
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+### Frontend
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+
+### Backend & Database
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=flat&logo=mongodb&logoColor=white)
+![EJS](https://img.shields.io/badge/EJS-90C53F?style=flat&logo=ejs&logoColor=white)
 
 ### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37726?style=flat-square&logo=jupyter&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
 
 ---
 
-## 📊 GitHub Statistics
+## Featured Projects
+
+### 1. EasyStore
+E-commerce platform showing product management, shopping cart, and checkout flow. Built with vanilla JavaScript and responsive design.
+
+[View Repository](https://github.com/vedantparasharr/EasyStore) | [Live Demo](https://vedantparasharr.github.io/EasyStore)
+
+### 2. AriaChat
+Real-time chat application demonstrating message handling and interactive UI components.
+
+[View Repository](https://github.com/vedantparasharr/AriaChat)
+
+### 3. Movio
+Movie database application with search, filtering, and detailed movie information powered by API integration.
+
+[View Repository](https://github.com/vedantparasharr/Movio)
+
+### 4. Notely with Backend
+Full-stack note-taking application. Frontend with dynamic UI, backend using Node.js, Express.js, and file system operations. This project shows my backend learning in action.
+
+[View Repository](https://github.com/vedantparasharr/Notely---with-backend)
+
+### 5. QuickWeather
+Real-time weather application using weather API integration, responsive design, and dynamic weather data rendering.
+
+[View Repository](https://github.com/vedantparasharr/QuickWeather) | [Live Demo](https://vedantparasharr.github.io/QuickWeather)
+
+### 6. ZapTask
+Task management application with CRUD operations, local storage, and smooth animations. Shows DOM manipulation and state management.
+
+[View Repository](https://github.com/vedantparasharr/ZapTask)
+
+---
+
+## 2026 Goals
+
+**Production Ready Projects**
+- Build 2-3 full MERN stack applications with proper database design
+- Deploy to cloud platforms (Vercel for frontend, Heroku or Railway for backend)
+- Implement user authentication and management systems
+
+**Backend Mastery**
+- Deep dive into Node.js event loop and async patterns
+- Master Express.js middleware and routing
+- Learn MongoDB schema design and query optimization
+- Implement caching strategies (Redis basics)
+
+**Advanced Frontend**
+- Advanced React patterns (custom hooks, context optimization)
+- State management mastery (Redux or Context API)
+- Performance optimization and lazy loading
+
+**Deployment & DevOps**
+- Docker containerization basics
+- CI/CD pipeline setup with GitHub Actions
+- Environment configuration management
+
+**Learning Path**
+- System design fundamentals
+- Data structures and algorithms with JavaScript focus
+- API design and REST principles
+- Database optimization techniques
+
+**Community & Growth**
+- Contribute to 2-3 open-source projects
+- Share my learning journey on LinkedIn
+- Help other junior developers in tech communities
+- Network with developers and mentors
+
+---
+
+## Learning Timeline
+
+**2025 (Current)**
+- Completed React fundamentals and component architecture
+- Built multiple interactive frontends (EasyStore, AriaChat, QuickWeather, ZapTask)
+- Started backend journey with Node.js and Express.js
+- Currently working on Notely backend to solidify fundamentals
+
+**2026 (Planned)**
+- Master full MERN stack architecture
+- Build and deploy multiple production-ready applications
+- Deepen database design and optimization skills
+- Explore advanced patterns and best practices
+
+---
+
+## How to Run My Projects
+
+Most of my projects follow this pattern:
+
+```bash
+# Clone the repository
+git clone https://github.com/vedantparasharr/[project-name].git
+
+# Navigate to project
+cd [project-name]
+
+# Install dependencies (if applicable)
+npm install
+
+# Run the project
+npm start
+```
+
+For specific setup instructions, check the README in each repository.
+
+---
+
+## Let's Connect
+
+I'm always open to learning, collaborating, or just chatting about web development.
+
+- GitHub: [vedantparasharr](https://github.com/vedantparasharr)
+- LinkedIn: [vedantparasharr](https://linkedin.com/in/vedantparasharr)
+- Email: [iemvedant@gmail.com](mailto:iemvedant@gmail.com)
+
+---
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vedantparasharr&show_icons=true&theme=dark&count_private=true)](https://github.com/vedantparasharr)
+**If you find my projects helpful, please consider starring them! It motivates me to keep building and sharing.**
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vedantparasharr&layout=compact&theme=dark)](https://github.com/vedantparasharr)
-
-</div>
-
----
-
-## 🎯 Featured Projects
-
-### 🍕 **SimpleKitchen**
-- Responsive recipe website with smooth animations
-- Built with HTML, CSS, JavaScript
-- Features: Dynamic recipe filtering, responsive design
-- [View Repository](https://github.com/vedantparasharr/SimpleKitchen)
-
-### ☕ **LoversCoffeeCafe**
-- Cozy cafe website showcasing menu and store info
-- Built with HTML, CSS, JavaScript
-- Modern UI with smooth interactions
-- [View Repository](https://github.com/vedantparasharr/LoversCoffeeCafe)
-
-### 📝 **Notely - with Backend**
-- Full-stack note-taking application
-- Built with EJS, Node.js, Express.js
-- Features: Dynamic routing, database integration
-- [View Repository](https://github.com/vedantparasharr/Notely---with-backend)
-
-### 🛒 **AmazonCloneJs**
-- E-commerce clone with dynamic product management
-- Built with JavaScript
-- [View Repository](https://github.com/vedantparasharr/AmazonCloneJs)
-
----
-
-## 🌱 Current Focus
-
-- 📖 Building strong fundamentals in **Full-Stack Development**
-- 🏗️ Learning **Backend Architecture** and **System Design**
-- 💾 Exploring **Database Design** with MongoDB & SQL
-- 🔄 Mastering **Git & GitHub Workflows**
-- 🎓 Pursuing **Computer Science** minor assignments
-
----
-
-## 📈 Goals for 2025
-
-✅ Master **React** and **Node.js** ecosystem
-✅ Build 3-4 **production-ready** projects
-✅ Deploy applications on **cloud platforms** (Vercel, Heroku)
-✅ Contribute to **open-source** projects
-✅ Improve **DSA** and **system design** skills
-
----
-
-## 📫 Connect With Me
-
-- **GitHub**: [vedantparasharr](https://github.com/vedantparasharr)
-- **Email**: your.email@gmail.com
-- **Portfolio**: [GitHub Profile](https://github.com/vedantparasharr)
-
----
-
-<div align="center">
-
-**⭐ If you find my projects useful, please star them! 🙏**
-
-*Made with ❤️ by Vedant Parashar*
+Made with code and coffee by Vedant Parashar
 
 </div>
