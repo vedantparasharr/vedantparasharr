@@ -91,13 +91,6 @@ Here are the things I am working on:
 
 ---
 
-## 3D / Snake Contribution Visual (working)
-
-To make the 3D / snake animation work reliably the README should embed the generated SVG (or GIF) from a GitHub Action that runs daily and publishes the generated image to the `output` branch. Below is a ready-to-copy README snippet and a complete workflow you can add to your profile repository (the repository named exactly `vedantparasharr/vedantparasharr`).
-
-### README embed (place where you want the snake to appear)
-
-```html
 <picture>
   <!-- dark-mode snake -->
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vedantparasharr/vedantparasharr/output/github-contribution-grid-snake-dark.svg">
@@ -106,58 +99,6 @@ To make the 3D / snake animation work reliably the README should embed the gener
   <!-- fallback -->
   <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/vedantparasharr/vedantparasharr/output/github-contribution-grid-snake.svg" />
 </picture>
-```
-
-> After the action finishes the two files (`github-contribution-grid-snake.svg` and `github-contribution-grid-snake-dark.svg`) will exist in the `output` branch and the `<picture>` tag above will automatically display them (dark/light aware).
-
-### GitHub Actions workflow (add this as `.github/workflows/generate-snake.yml`)
-
-```yaml
-name: Generate Snake
-
-# runs automatically and can also be triggered manually
-on:
-  schedule:
-    - cron: '0 0 * * *' # runs daily at 00:00 UTC (change if you prefer more/less frequent)
-  workflow_dispatch:
-
-permissions:
-  contents: write
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-
-    steps:
-      - name: Checkout
-        uses: actions/checkout@v4
-
-      - name: Run SNK (generate snake animation)
-        uses: Platane/snk@v3
-        with:
-          # optional: pick output type svg or gif (default svg)
-          format: svg
-          # optional: set username; default is repository owner
-          username: vedantparasharr
-
-      - name: Commit and push to output branch
-        uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-**Notes & troubleshooting**
-
-1. The workflow above uses `Platane/snk` (a well-known tool that converts your contribution grid into a snake animation). If you prefer a different action/template some community forks exist; the important part is that the action outputs files into a folder named `dist` and the `ghaction-github-pages` step copies that to the `output` branch.
-
-2. If your action runs but the image looks wrong: check the Actions logs and make sure your repository permissions allow actions to write to the output branch (Repository Settings → Actions → Workflow permissions → "Allow GitHub Actions to create and approve pull requests" or set `contents: write`).
-
-3. If the `output` branch is missing after a successful run, open the Action run logs; the `ghaction-github-pages` step will show whether it created/updated the `output` branch.
-
-4. If you want a dark-only or custom-colored version, `Platane/snk` supports theme customization via environment variables or inputs — check the action's README for `--colors` style options.
 
 ---
 
