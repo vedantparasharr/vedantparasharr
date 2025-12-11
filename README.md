@@ -49,21 +49,23 @@ Right now, I'm deep in the MERN stack journey. React is solid, and I'm actively 
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vedantparasharr&theme=dark&show_icons=true&hide_border=true&count_private=true)
+<!-- GitHub Stats -->
+<a href="https://github.com/vedantparasharr">
+  <img src="https://github-readme-stats.vercel.app/api?username=vedantparasharr&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+</a>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vedantparasharr&theme=dark&show_icons=true&hide_border=true&layout=compact)
+<!-- Top Languages -->
+<a href="https://github.com/vedantparasharr">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vedantparasharr&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</a>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=vedantparasharr&theme=dark&hide_border=true)](https://git.io/streak-stats)
-
-</div>## GitHub Analytics
-
-<div align="center">
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vedantparasharr&hide=contribs&show_icons=true&bg_color=1a1b27&text_color=ffffff&icon_color=00d9ff&title_color=00d9ff)](https://github.com/vedantparasharr)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vedantparasharr&layout=compact&bg_color=1a1b27&text_color=ffffff&title_color=00d9ff)](https://github.com/vedantparasharr)
+<!-- Streak Stats -->
+<a href="https://github.com/vedantparasharr">
+  <img src="https://streak-stats.demolab.com?user=vedantparasharr&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</a>
 
 </div>
+
 
 ---
 
