@@ -64,6 +64,16 @@ Right now, I'm deep in the MERN stack journey. React is solid, and I'm actively 
   <img src="https://streak-stats.demolab.com?user=vedantparasharr&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </a>
 
+</div>## GitHub Analytics
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vedantparasharr&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vedantparasharr&layout=compact&theme=tokyonight)
+
+![Streak Stats](https://streak-stats.demolab.com?user=vedantparasharr&theme=tokyonight)
+
 </div>
 
 
