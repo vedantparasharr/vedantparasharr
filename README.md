@@ -56,81 +56,7 @@ Right now, I'm deep in the MERN stack journey. React is solid, and I'm actively 
 
 
 ---
-
-## 2026 Goals
-
-**Production Ready Projects**
-- Build 2-3 full MERN stack applications with proper database design
-- Deploy to cloud platforms (Vercel for frontend, Heroku or Railway for backend)
-- Implement user authentication and management systems
-
-**Backend Mastery**
-- Deep dive into Node.js event loop and async patterns
-- Master Express.js middleware and routing
-- Learn MongoDB schema design and query optimization
-- Implement caching strategies (Redis basics)
-
-**Advanced Frontend**
-- Advanced React patterns (custom hooks, context optimization)
-- State management mastery (Redux or Context API)
-- Performance optimization and lazy loading
-
-**Deployment & DevOps**
-- Docker containerization basics
-- CI/CD pipeline setup with GitHub Actions
-- Environment configuration management
-
-**Learning Path**
-- System design fundamentals
-- Data structures and algorithms with JavaScript focus
-- API design and REST principles
-- Database optimization techniques
-
-**Community & Growth**
-- Contribute to 2-3 open-source projects
-- Share my learning journey on LinkedIn
-- Help other junior developers in tech communities
-- Network with developers and mentors
-
----
-
-## Learning Timeline
-
-**2025 (Current)**
-- Completed React fundamentals and component architecture
-- Built multiple interactive frontends (EasyStore, AriaChat, QuickWeather, ZapTask)
-- Started backend journey with Node.js and Express.js
-- Currently working on Notely backend to solidify fundamentals
-
-**2026 (Planned)**
-- Master full MERN stack architecture
-- Build and deploy multiple production-ready applications
-- Deepen database design and optimization skills
-- Explore advanced patterns and best practices
-
----
-
-## How to Run My Projects
-
-Most of my projects follow this pattern:
-
-```bash
-# Clone the repository
-git clone https://github.com/vedantparasharr/[project-name].git
-
-# Navigate to project
-cd [project-name]
-
-# Install dependencies (if applicable)
-npm install
-
-# Run the project
-npm start
-```
-
-For specific setup instructions, check the README in each repository.
-
----
+<div align="left">
 
 ## Let's Connect
 
@@ -146,6 +72,6 @@ I'm always open to learning, collaborating, or just chatting about web developme
 
 **If you find my projects helpful, please consider starring them! It motivates me to keep building and sharing.**
 
-Made with code and coffee by Vedant Parashar
+Made with ❤️ and code by Vedant Parashar
 
 </div>
