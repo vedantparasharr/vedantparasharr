@@ -10,15 +10,14 @@
 
 # Hi, I'm Vedant Parashar 👋
 
-I am a frontend developer who is currently learning backend development with the MERN stack. I enjoy building real projects because that is how I understand concepts clearly and improve my skills.
-
+I am a frontend developer expanding into full stack development through the MERN stack. Curiosity brought me into coding, and since then I have focused on improving my skills through consistent learning and real project work. I care about understanding how complete systems function from the interface to the server, database, and deployment.
 ---
 
 ## About Me
 
-I come from a frontend background and spent my early learning days working with React. Tailwind was something I used occasionally in the beginning, but it has now become my go-to CSS framework because of its speed and clean workflow.
+I started coding from curiosity and quickly developed an interest in how applications work at every layer. I began with frontend development, building clean and thoughtful interfaces, and later saw the importance of understanding the backend systems that support them. This naturally led me to the MERN stack, where I now focus on connecting React applications with Node, Express, and MongoDB.
 
-Right now, I am focused on backend development. I am connecting the frontend skills I already have with server logic, API design, authentication and databases. Every project helps me understand how a complete system works.
+My development style is clean and experimental. I build to learn, test ideas, and refine my understanding. Each project strengthens my ability to think across both frontend and backend and helps me grow into a capable full stack developer.
 
 ---
 
@@ -50,22 +49,12 @@ Right now, I am focused on backend development. I am connecting the frontend ski
 
 ## What I Build
 
-I have completed several frontend projects using React. Recently, I started integrating backend features like routes, authentication and database operations. My pinned repositories include the projects I am most proud of, along with their source code and live demos.
-
+I build projects that help me understand the full flow of a MERN application. I start with a clear UI idea and then extend it into a functioning system with routes, data handling, and real backend logic. Working on complete projects allows me to see how features interact and teaches me how to write code that remains structured and maintainable as complexity grows.
 ---
 
 ## Currently Learning
 
-I am currently learning backend development with the MERN stack.
-Here are the things I am working on:
-
-* MongoDB and Mongoose connection
-
-* CRUD operations with real models
-
-* Edit and update features
-
-* Moving toward auth, roles, file uploads, and full backend projects
+I am currently learning the MERN stack in depth. My focus areas include building APIs with Express, working with MongoDB and Mongoose, handling real data flows, and integrating backend logic with React applications. I am also learning how to design applications with proper structure so that features can scale and remain easy to work with as they grow.
 
 ---
 
