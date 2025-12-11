@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1200&color=7BD0FF&center=true&vCenter=true&width=760&lines=Vedant+Parashar+|+Frontend+Developer;Exploring+the+MERN+Backend;Always+Learning+Through+Building" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1200&color=7BD0FF&center=true&vCenter=true&width=760&lines=Vedant+Parashar+|+Frontend+Developer;Exploring+the+MERN+Full-stack;Always+Learning+Through+Building" />
 
 <br/>
 
