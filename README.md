@@ -50,7 +50,7 @@ My development style is clean and experimental. I build to learn, test ideas, an
     </td>
     <td align="center">
       <!-- Top languages -->
-      <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=vedantparasharr&layout=compact&theme=tokyonight&hide_border=true" width="320" alt="top langs" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vedantparasharr&langs_count=6&theme=tokyonight&hide_border=true" width="320" alt="top langs" />
     </td>
   </tr>
   <tr>
