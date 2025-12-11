@@ -45,37 +45,17 @@ Right now, I'm deep in the MERN stack journey. React is solid, and I'm actively 
 
 ---
 
-## Featured Projects
+## GitHub Analytics
 
-### 1. EasyStore
-E-commerce platform showing product management, shopping cart, and checkout flow. Built with vanilla JavaScript and responsive design.
+<div align="center">
 
-[View Repository](https://github.com/vedantparasharr/EasyStore) | [Live Demo](https://vedantparasharr.github.io/EasyStore)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vedantparasharr&theme=dark&show_icons=true&hide_border=true&count_private=true)
 
-### 2. AriaChat
-Real-time chat application demonstrating message handling and interactive UI components.
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vedantparasharr&theme=dark&show_icons=true&hide_border=true&layout=compact)
 
-[View Repository](https://github.com/vedantparasharr/AriaChat)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=vedantparasharr&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
-### 3. Movio
-Movie database application with search, filtering, and detailed movie information powered by API integration.
-
-[View Repository](https://github.com/vedantparasharr/Movio)
-
-### 4. Notely with Backend
-Full-stack note-taking application. Frontend with dynamic UI, backend using Node.js, Express.js, and file system operations. This project shows my backend learning in action.
-
-[View Repository](https://github.com/vedantparasharr/Notely---with-backend)
-
-### 5. QuickWeather
-Real-time weather application using weather API integration, responsive design, and dynamic weather data rendering.
-
-[View Repository](https://github.com/vedantparasharr/QuickWeather) | [Live Demo](https://vedantparasharr.github.io/QuickWeather)
-
-### 6. ZapTask
-Task management application with CRUD operations, local storage, and smooth animations. Shows DOM manipulation and state management.
-
-[View Repository](https://github.com/vedantparasharr/ZapTask)
+</div>
 
 ---
 
