@@ -1,10 +1,18 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1200&color=7BD0FF&center=true&vCenter=true&width=640&lines=Vedant+Parashar+%7C+Full+Stack+%28MERN%29+Developer;Building+Practical+Web+Applications" />
+<img
+  src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=700&color=7BD0FF&center=true&vCenter=true&width=440&lines=Vedant+Parashar;MERN+Stack+Developer;Turning+Ideas+into+Web+Apps"
+  alt="Typing animation"
+/>
 
-<br/>
+<br/><br/>
 
-<img src="https://github.com/vedantparasharr.png" alt="Vedant Parashar" width="120" style="border-radius:50%; border:3px solid rgba(123,208,255,0.18);" />
+<img
+  src="https://github.com/vedantparasharr.png"
+  alt="Vedant Parashar"
+  width="120"
+  style="border-radius:50%; border:2px solid rgba(123,208,255,0.25);"
+/>
 
 </div>
 
