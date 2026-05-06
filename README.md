@@ -30,7 +30,7 @@ I am a student developer who believes consistency and hands-on projects matter m
 
 ---
 
-## Tech Stack 🛠️
+## Tech Stack 🛠️ 
 
 <div align="center">
 
