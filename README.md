@@ -5,7 +5,7 @@
   alt="Typing animation"
 />
 
-<br/><br/>
+<br/><br/> 
 
 <img
   src="https://github.com/vedantparasharr.png"
