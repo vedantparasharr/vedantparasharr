@@ -9,7 +9,7 @@
 
 <img
   src="https://github.com/vedantparasharr.png"
-  alt="Vedant Parashar"
+  alt="Vedant Parashar" 
   width="120"
   style="border-radius:50%; border:2px solid rgba(123,208,255,0.25);"
 />
