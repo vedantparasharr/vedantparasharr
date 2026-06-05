@@ -19,7 +19,7 @@
 # Hi 👋, I’m Vedant Parashar
 
 I am a **Full Stack (MERN) developer** who enjoys building real, usable web applications. I focus on writing clean code, connecting frontends to solid backends, and shipping features that actually work in production-like setups.
-
+ 
 ---
 
 ## About Me
