@@ -38,7 +38,7 @@ I am a student developer who believes consistency and hands-on projects matter m
 
 </div>
 
-**Stack overview**
+**Stack overview** 
 
 * Frontend: React, HTML, CSS, Tailwind, JavaScript (ES6+)
 * Backend: Node.js, Express.js
