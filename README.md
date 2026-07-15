@@ -1,5 +1,4 @@
 <div align="center">
-
 <img
   src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=700&color=7BD0FF&center=true&vCenter=true&width=440&lines=Vedant+Parashar;MERN+Stack+Developer;Turning+Ideas+into+Web+Apps"
   alt="Typing animation"
